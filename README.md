@@ -1,2 +1,2 @@
 # Project_1
-Creation of Whatsapp
+Creation of Whatsapp Application
