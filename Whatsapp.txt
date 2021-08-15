@@ -1,0 +1,9 @@
+1. Profile page
+
+2. Chat Window
+
+3. Profile Image 
+
+4. Status Message 
+
+5.About  
