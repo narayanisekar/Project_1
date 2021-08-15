@@ -7,3 +7,7 @@
 4. Status Message 
 
 5.About  
+
+6.Video audio feature added
+
+7.double tick added
